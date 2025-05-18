@@ -13,4 +13,3 @@ It was created by Linus Torvalds in 2005, and has been maintained by Junio Haman
 It is used for:
 
 Tracking code changes
-Tracking who made changes
